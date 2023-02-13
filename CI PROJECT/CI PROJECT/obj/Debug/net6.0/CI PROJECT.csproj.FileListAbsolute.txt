@@ -1,0 +1,31 @@
+E:\CI login in vs\CI PROJECT\CI PROJECT\bin\Debug\net6.0\appsettings.Development.json
+E:\CI login in vs\CI PROJECT\CI PROJECT\bin\Debug\net6.0\appsettings.json
+E:\CI login in vs\CI PROJECT\CI PROJECT\bin\Debug\net6.0\CI PROJECT.staticwebassets.runtime.json
+E:\CI login in vs\CI PROJECT\CI PROJECT\bin\Debug\net6.0\CI PROJECT.exe
+E:\CI login in vs\CI PROJECT\CI PROJECT\bin\Debug\net6.0\CI PROJECT.deps.json
+E:\CI login in vs\CI PROJECT\CI PROJECT\bin\Debug\net6.0\CI PROJECT.runtimeconfig.json
+E:\CI login in vs\CI PROJECT\CI PROJECT\bin\Debug\net6.0\CI PROJECT.dll
+E:\CI login in vs\CI PROJECT\CI PROJECT\bin\Debug\net6.0\CI PROJECT.pdb
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.csproj.AssemblyReference.cache
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.AssemblyInfoInputs.cache
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.AssemblyInfo.cs
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.csproj.CoreCompileInputs.cache
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.MvcApplicationPartsAssemblyInfo.cache
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.RazorAssemblyInfo.cache
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.RazorAssemblyInfo.cs
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\staticwebassets\msbuild.CI PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\staticwebassets\msbuild.build.CI PROJECT.props
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CI PROJECT.props
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CI PROJECT.props
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\staticwebassets.pack.json
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\staticwebassets.build.json
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\staticwebassets.development.json
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\scopedcss\bundle\CI PROJECT.styles.css
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\scopedcss\projectbundle\CI PROJECT.bundle.scp.css
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.dll
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\refint\CI PROJECT.dll
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.pdb
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\CI PROJECT.genruntimeconfig.cache
+E:\CI login in vs\CI PROJECT\CI PROJECT\obj\Debug\net6.0\ref\CI PROJECT.dll
