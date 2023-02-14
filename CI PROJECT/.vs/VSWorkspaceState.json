@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CI PROJECT",
+    "\\CI PROJECT\\Controllers",
+    "\\CI PROJECT\\Models",
+    "\\CI PROJECT\\Views",
+    "\\CI PROJECT\\Views\\Home",
+    "\\CI PROJECT\\Views\\Login"
+  ],
+  "SelectedNode": "\\CI PROJECT\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}
