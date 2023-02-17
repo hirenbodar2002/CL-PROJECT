@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EkrBs7RBlk2c0MqxTCMH6naQKReuAqWKdKndep2w0Yo=",
+  "Hash": "V2heSzJdMa17p0BMludC3jHeHL8/iIUDWmTxnmKeZs4=",
   "Source": "CI PROJECT",
   "BasePath": "_content/CI PROJECT",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\card.css",
+      "SourceId": "CI PROJECT",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\",
+      "BasePath": "_content/CI PROJECT",
+      "RelativePath": "css/card.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\card.css"
     },
     {
       "Identity": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\site.css",
