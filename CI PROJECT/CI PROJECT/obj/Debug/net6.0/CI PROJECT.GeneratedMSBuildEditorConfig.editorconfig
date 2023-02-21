@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/CI login in vs/CI PROJECT/CI PROJECT/Views/Home/missiondetailpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtaXNzaW9uZGV0YWlscGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CI login in vs/CI PROJECT/CI PROJECT/Views/Home/missionnotfound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtaXNzaW9ubm90Zm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/CI login in vs/CI PROJECT/CI PROJECT/Views/Login/Forgotpassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRm9yZ290cGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

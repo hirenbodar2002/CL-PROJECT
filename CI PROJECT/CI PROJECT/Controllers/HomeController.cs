@@ -18,7 +18,17 @@ namespace CI_PROJECT.Controllers
             return View();
         }
 
-        
+        public IActionResult missiondetailpage()
+        {
+            return View();
+        }
+
+        public IActionResult missionnotfound()
+        {
+            return View();
+        }
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
