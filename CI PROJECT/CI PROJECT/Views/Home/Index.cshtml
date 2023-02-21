@@ -1,168 +1,179 @@
-﻿<div class="missions my-md-2 d-flex justify-content-between container">
+﻿<div class="container d-flex sortmissions">
     <h2>Exploar 72 missions</h2>
-    <div>
+    <div class="mb-3 mt-3 filter-grid-list">
+        <button type="button" class="btn btn-default dropdown-toggle filter" data-toggle="dropdown">
+            <span id="search_concept">Filter by</span> <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+            <li><a href="#contains">Contains</a></li>
+            <li><a href="#its_equal">It's equal</a></li>
+            <li><a href="#greather_than">Greather than ></a></li>
+            <li><a href="#less_than">Less than </a></li>
+            <li class="divider"></li>
+            <li><a href="#all">Anything</a></li>
+        </ul>
 
-        <select name="cars" id="cars">
-            <optgroup label="Swedish Cars">
-                <option value="volvo">Sort by</option>
-                <option value="saab">Saab</option>
-            </optgroup>
-            <optgroup label="German Cars">
-                <option value="mercedes">Mercedes</option>
-                <option value="audi">Audi</option>
-            </optgroup>
-        </select>
-        <img src="./images/grid.png" alt="">
-        <img src="./images/list.png" alt="">
+        <button class="btn  btn-grid grid"><img src="./images/grid.png" alt=""></button>
+        <button class="btn  btn-list list"><img src="./images/list.png" alt=""></button>
     </div>
+
 </div>
 
-
-<div class="container" style="margin-top:50px;">
+<div class="container grid-container">
     <div class="row">
-
-        <div class="col-md-4 col-sm-auto">
-            <div class="card-sl">
-                <div class="card-image">
-                    <img class="card-img-top" src="./images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png" alt="Card image cap">
-                    <a class="card-action2" href="#" style="color: #ffff;"><i class="bi bi-geo-alt-fill"></i>Bharat</a>
-                    <a class="card-action" href="#"><i class="fa fa-heart"></i></a>
-                    <a class="card-action1" href="#"><i class="bi bi-person-fill-add"></i></a>
-                </div>
-                <div class="title">
-                    <h6 class="sub-title">Enviroment</h6>
-                </div>
-
-                <div class="card-heading">
-                    ABC DEFG HIGKLM
-                </div>
-                <div class="card-text">
-                    ABC DEFG is a full-size luxury crossover SUV coupé made by Audi that was launched in 2018.
-                </div>
-                <div class="card-start">
-                    <h6>Three Canada</h6><div><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i><i class="bi bi-star"></i></i></div>
-                </div><hr class="m-0 p-0">
-                <div class="mission-data">
-                    <p class="data">From 10/01/2019 Until 25/02/2019</p>
-
-                </div>
-                <div class="main d-flex justify-content-around bg-white">
-                    <div class="seats">
-                        <img src="./images/Seats-left.png" alt="">10 <br> <p1> Seats Left </p>
-                    </div>
-                    <div class="seats">
-                        <img src="./images/deadline.png" alt="">09/01/2019 <br> <p2>  Deadline </p>
-                    </div>
-                    <div class="seats">
-                        <img src="./images/gift.png" alt="">
-                        <img src="./images/right.png" alt="">
-                        <img src="./images/info.png" alt=""> <br> <p3>Matching Gift</p>
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="card">
+                <div>
+                    <img class="card-img-top" src="./images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png" alt="Card image cap">
+                    <a class="card-action" href="#"><img src="./images/heart.png" alt=""></i></a>
+                    <a class="card-action1"><img src="./images/add1.png" alt=""></a>
+                    <div class="title">
+                        <h6 class="sub-title">Enviroment</h6>
                     </div>
                 </div>
-                <hr class="m-0 p-0">
-                <div class="d-flex justify-content-center bg-white">
-                    <a href="#" class="btn apply-btn">Apply<i class="bi bi-arrow-right"></i></a>
+                <div class="card-body">
+                    <h5 class="card-title">ABC DEFG HIGKLM</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <div class="card-start">
+                        <h6>Three Canada</h6>
+                        <div class="start">
+                            <img src="./images/selected-star.png" alt="">
+                            <img src="./images/selected-star.png" alt="">
+                            <img src="./images/selected-star.png" alt="">
+                            <img src="./images/star-empty.png" alt="">
+                            <img src="./images/star-empty.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="mission-ditel mt-4 position-relative py-4">
+
+                        <div class="mission-data position-absolute">
+                            <p class="data">&nbsp; From 10/01/2019 Until 25/02/2019 &nbsp;</p>
+                        </div>
+                        <div class="main d-flex justify-content-around bg-white">
+                            <div class="seats">
+                                <img src="./images/Seats-left.png" alt="">10 <br> <p1> Seats Left </p>
+                            </div>
+                            <div class="seats">
+                                <img src="./images/deadline.png" alt="">09/01/2019 <br> <p2>  Deadline </p>
+                            </div>
+                            <div class="seats">
+                                <img src="./images/gift.png" alt="">
+                                <img src="./images/right.png" alt="">
+                                <img src="./images/info.png" alt=""> <br> <p3>Matching Gift</p>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="d-flex justify-content-center mt-3">
+                        <a href="#" class="btn apply-btn">Apply &nbsp; &nbsp;<img src="./images/right-arrow.png" alt=""></a>
+                    </div>
                 </div>
             </div>
         </div>
-
-        <div class="col-md-4 col-sm-auto">
-            <div class="card-sl">
-                <div class="card-image">
-                    <img class="card-img-top" src="./images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png" alt="Card image cap">
-                    <a class="card-action2" href="#" style="color: #ffff;"><i class="bi bi-geo-alt-fill"></i>Bharat</a>
-                    <a class="card-action" href="#"><i class="fa fa-heart"></i></a>
-                    <a class="card-action1" href="#"><i class="bi bi-person-fill-add"></i></a>
-
-                </div>
-                <div class="title">
-                    <h6 class="sub-title">Enviroment</h6>
-                </div>
-
-                <div class="card-heading">
-                    ABC DEFG HIGKLM
-                </div>
-                <div class="card-text">
-                    ABC DEFG is a full-size luxury crossover SUV coupé made by Audi that was launched in 2018.
-                </div>
-                <div class="card-start">
-                    <h6>Three Canada</h6><div><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i><i class="bi bi-star"></i></i></div>
-                </div><hr class="m-0 p-0">
-                <div class="mission-data">
-                    <p class="data">From 10/01/2019 Until 25/02/2019</p>
-
-                </div>
-                <div class="main d-flex justify-content-around bg-white">
-                    <div class="seats">
-                        <img src="./images/Seats-left.png" alt="">10 <br> <p1> Seats Left </p>
-                    </div>
-                    <div class="seats">
-                        <img src="./images/deadline.png" alt="">09/01/2019 <br> <p2>  Deadline </p>
-                    </div>
-                    <div class="seats">
-                        <img src="./images/gift.png" alt="">
-                        <img src="./images/right.png" alt="">
-                        <img src="./images/info.png" alt=""> <br> <p3>Matching Gift</p>
-
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="card">
+                <div>
+                    <img class="card-img-top" src="./images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png" alt="Card image cap">
+                    <a class="card-action" href="#"><img src="./images/heart.png" alt=""></i></a>
+                    <a class="card-action1"><img src="./images/add1.png" alt=""></a>
+                    <div class="title">
+                        <h6 class="sub-title">Enviroment</h6>
                     </div>
                 </div>
-                <hr class="m-0 p-0">
-                <div class="d-flex justify-content-center bg-white">
-                    <a href="#" class="btn apply-btn">Apply<i class="bi bi-arrow-right"></i></a>
+                <div class="card-body">
+                    <h5 class="card-title">ABC DEFG HIGKLM</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <div class="card-start">
+                        <h6>Three Canada</h6>
+                        <div class="start">
+                            <img src="./images/selected-star.png" alt="">
+                            <img src="./images/selected-star.png" alt="">
+                            <img src="./images/selected-star.png" alt="">
+                            <img src="./images/star-empty.png" alt="">
+                            <img src="./images/star-empty.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="mission-ditel mt-4 position-relative py-4">
+
+                        <div class="mission-data position-absolute">
+                            <p class="data">&nbsp; From 10/01/2019 Until 25/02/2019 &nbsp;</p>
+                        </div>
+                        <div class="main d-flex justify-content-around bg-white">
+                            <div class="seats">
+                                <img src="./images/Seats-left.png" alt="">10 <br> <p1> Seats Left </p>
+                            </div>
+                            <div class="seats">
+                                <img src="./images/deadline.png" alt="">09/01/2019 <br> <p2>  Deadline </p>
+                            </div>
+                            <div class="seats">
+                                <img src="./images/gift.png" alt="">
+                                <img src="./images/right.png" alt="">
+                                <img src="./images/info.png" alt=""> <br> <p3>Matching Gift</p>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="d-flex justify-content-center mt-3">
+                        <a href="#" class="btn apply-btn">Apply &nbsp; &nbsp;<img src="./images/right-arrow.png" alt=""></a>
+                    </div>
                 </div>
             </div>
         </div>
-
-        <div class="col-md-4 col-sm-auto">
-            <div class="card-sl">
-                <div class="card-image">
-                    <img class="card-img-top" src="./images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png" alt="Card image cap">
-                    <a class="card-action2" href="#" style="color: #ffff;"><i class="bi bi-geo-alt-fill"></i>Bharat</a>
-                    <a class="card-action" href="#"><i class="fa fa-heart"></i></a>
-                    <a class="card-action1" href="#"><i class="bi bi-person-fill-add"></i></a>
-
-                </div>
-                <div class="title">
-                    <h6 class="sub-title">Enviroment</h6>
-                </div>
-
-                <div class="card-heading">
-                    ABC DEFG HIGKLM
-                </div>
-                <div class="card-text">
-                    ABC DEFG is a full-size luxury crossover SUV coupé made by Audi that was launched in 2018.
-                </div>
-                <div class="card-start">
-                    <h6>Three Canada</h6><div><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i><i class="bi bi-star"></i></i></div>
-                </div><hr class="m-0 p-0">
-                <div class="mission-data">
-                    <p class="data">From 10/01/2019 Until 25/02/2019</p>
-
-                </div>
-                <div class="main d-flex justify-content-around bg-white">
-                    <div class="seats">
-                        <img src="./images/Seats-left.png" alt="">10 <br> <p1> Seats Left </p>
-                    </div>
-                    <div class="seats">
-                        <img src="./images/deadline.png" alt="">09/01/2019 <br> <p2>  Deadline </p>
-                    </div>
-                    <div class="seats">
-                        <img src="./images/gift.png" alt="">
-                        <img src="./images/right.png" alt="">
-                        <img src="./images/info.png" alt=""> <br> <p3>Matching Gift</p>
-
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="card">
+                <div>
+                    <img class="card-img-top" src="./images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png" alt="Card image cap">
+                    <a class="card-action" href="#"><img src="./images/heart.png" alt=""></i></a>
+                    <a class="card-action1"><img src="./images/add1.png" alt=""></a>
+                    <div class="title">
+                        <h6 class="sub-title">Enviroment</h6>
                     </div>
                 </div>
-                <hr class="m-0 p-0">
-                <div class="d-flex justify-content-center bg-white">
-                    <a href="#" class="btn apply-btn">Apply<i class="bi bi-arrow-right"></i></a>
+                <div class="card-body">
+                    <h5 class="card-title">ABC DEFG HIGKLM</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <div class="card-start">
+                        <h6>Three Canada</h6>
+                        <div class="start">
+                            <img src="./images/selected-star.png" alt="">
+                            <img src="./images/selected-star.png" alt="">
+                            <img src="./images/selected-star.png" alt="">
+                            <img src="./images/star-empty.png" alt="">
+                            <img src="./images/star-empty.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="mission-ditel mt-4 position-relative py-4">
+
+                        <div class="mission-data position-absolute">
+                            <p class="data">&nbsp; From 10/01/2019 Until 25/02/2019 &nbsp;</p>
+                        </div>
+                        <div class="main d-flex justify-content-around bg-white">
+                            <div class="seats">
+                                <img src="./images/Seats-left.png" alt="">10 <br> <p1> Seats Left </p>
+                            </div>
+                            <div class="seats">
+                                <img src="./images/deadline.png" alt="">09/01/2019 <br> <p2>  Deadline </p>
+                            </div>
+                            <div class="seats">
+                                <img src="./images/gift.png" alt="">
+                                <img src="./images/right.png" alt="">
+                                <img src="./images/info.png" alt=""> <br> <p3>Matching Gift</p>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="d-flex justify-content-center mt-3">
+                        <a href="#" class="btn apply-btn">Apply &nbsp; &nbsp;<img src="./images/right-arrow.png" alt=""></a>
+                    </div>
                 </div>
             </div>
-
-
         </div>
 
     </div>
-
 </div>
-

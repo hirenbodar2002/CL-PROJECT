@@ -9,16 +9,12 @@
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\card.css",
-      "PackagePath": "staticwebassets\\css\\card.css"
+      "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\detail.css",
+      "PackagePath": "staticwebassets\\css\\detail.css"
     },
     {
-      "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\stylr.css",
+      "PackagePath": "staticwebassets\\css\\stylr.css"
     },
     {
       "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\favicon.ico",
@@ -461,8 +457,8 @@
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
       "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\lib\\bootstrap\\LICENSE",
