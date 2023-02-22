@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MchfivcGx+EOddXcq42jM0Fd6zWGj20lRFNkKOhEGGI=",
+  "Hash": "5ZNGEgplbTZLmOmleAENf7FdnK8zseAGTKTQY9C0h+A=",
   "Source": "CI PROJECT",
   "BasePath": "_content/CI PROJECT",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\missionnotfound.css"
+    },
+    {
+      "Identity": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\platform-detail.css",
+      "SourceId": "CI PROJECT",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\",
+      "BasePath": "_content/CI PROJECT",
+      "RelativePath": "css/platform-detail.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\platform-detail.css"
     },
     {
       "Identity": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\stylr.css",
