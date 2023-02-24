@@ -41,7 +41,7 @@
                         </ul>
                     </li>
                     <li class="navbar-nav nav-item">
-                        <a class="nav-link" aria-current="page" href="#">Stories</a>
+                        <a class="nav-link" aria-current="page" asp-controller="Home" asp-action="Storys">Stories</a>
                     </li>
                     <li class="navbar-nav nav-item">
                         <a class="nav-link" aria-current="page" href="#">News</a>
@@ -85,7 +85,7 @@
 
     </nav>
 
-    <nav class="navbar navbar-expand-md navbar-light  border mb-4">
+    <nav class="navbar navbar-expand-md navbar-light bg-light border mb-4">
         <div class="container">
 
             <div class="search">
@@ -94,7 +94,7 @@
             <button class="navbar-toggler border-0" href="#filter" role="button" data-bs-toggle="offcanvas"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
                     id="navbar-toggler-btn">
-                <span class="navbar-toggler-icon"></span>
+                <span class=""> <img src="~/images/filter.png" /> </span>
             </button>
             <div class="offcanvas offcanvas-start d-flex align-items-lg-end" tabindex="-1" id="filter" aria-labelledby="offcanvasExampleLabel">
                 <div class="offcanvas-header">
@@ -102,7 +102,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
 
                 </div>
-                <div class="offcanvas-body mx-md-5">
+                <div class="offcanvas-body">
                     <div class=" border-left mx-5">
                         <li class="navbar-nav nav-item dropdown">
 

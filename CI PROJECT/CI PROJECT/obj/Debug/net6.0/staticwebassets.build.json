@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5ZNGEgplbTZLmOmleAENf7FdnK8zseAGTKTQY9C0h+A=",
+  "Hash": "Vh1f4ih6+uwuhQqP3aM8310ABt9wvu75n+OjECNEz84=",
   "Source": "CI PROJECT",
   "BasePath": "_content/CI PROJECT",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\platform-detail.css"
+    },
+    {
+      "Identity": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\Stories.css",
+      "SourceId": "CI PROJECT",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\",
+      "BasePath": "_content/CI PROJECT",
+      "RelativePath": "css/Stories.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Stories.css"
     },
     {
       "Identity": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\stylr.css",

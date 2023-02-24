@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CI PROJECT.bundle.scp.css"
     },
     {
+      "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\Stories.css",
+      "PackagePath": "staticwebassets\\css\\Stories.css"
+    },
+    {
       "Id": "E:\\CI login in vs\\CI PROJECT\\CI PROJECT\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },

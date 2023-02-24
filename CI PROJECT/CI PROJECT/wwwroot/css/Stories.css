@@ -1,0 +1,111 @@
+.story_container {
+    position: relative;
+    margin-top: 20px;
+    width: 100%;
+    height: 380px;
+    background-color: #000000;
+}
+
+.imgstory {
+    position: absolute;
+    width: 100%;
+    height: -webkit-fill-available;
+    object-fit: cover;
+    object-position: 0px 35%;
+    opacity:0.45;
+}
+
+.textstory {
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 160px;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    color: white;
+}
+.btnstory {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 240px;
+    width: max-content;
+    padding: 12px 48px;
+    text-align: center;
+    color:white;
+    border: 1px solid white;
+    background-color: transparent;
+    border-radius: 30px;
+}
+
+.story_images {
+    max-width: 480px;
+    max-height: 250px;
+    width: 100%;
+    height: auto;
+}
+
+
+/*card*/
+.storycard_container {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    background-color: #000000;
+}
+
+.imgcardstory {
+    position: absolute;
+    width: 100%;
+    height: 250px;
+    left: 0;
+}
+.btncardstory {
+    position: absolute;
+    width: 200px;
+    height:40px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    opacity: 0;
+    transition: opacity .35s ease;
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+    border-radius: 30px;
+}
+
+.card_hover:hover .btncardstory {
+    opacity: 1;
+}
+.card_hover:hover .imgcardstory {
+    opacity: 0.45;
+}
+
+.storyimg_text {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 175px;
+    max-height: 42px;
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 18px;
+    background-color: #FFFFFF;
+    opacity: 1;
+}
+.storycardimg {
+    width: 100%;
+    max-width: 120px;
+    border-radius: 50%;
+}
