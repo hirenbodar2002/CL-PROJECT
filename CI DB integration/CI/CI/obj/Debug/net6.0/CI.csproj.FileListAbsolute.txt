@@ -1,0 +1,137 @@
+D:\Datafirs\CI\CI\bin\Debug\net6.0\appsettings.Development.json
+D:\Datafirs\CI\CI\bin\Debug\net6.0\appsettings.json
+D:\Datafirs\CI\CI\bin\Debug\net6.0\CI.staticwebassets.runtime.json
+D:\Datafirs\CI\CI\bin\Debug\net6.0\CI.exe
+D:\Datafirs\CI\CI\bin\Debug\net6.0\CI.deps.json
+D:\Datafirs\CI\CI\bin\Debug\net6.0\CI.runtimeconfig.json
+D:\Datafirs\CI\CI\bin\Debug\net6.0\CI.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\CI.pdb
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Humanizer.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.csproj.AssemblyReference.cache
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.AssemblyInfoInputs.cache
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.AssemblyInfo.cs
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.csproj.CoreCompileInputs.cache
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.MvcApplicationPartsAssemblyInfo.cache
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.RazorAssemblyInfo.cache
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.RazorAssemblyInfo.cs
+D:\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets\msbuild.CI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets\msbuild.build.CI.props
+D:\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CI.props
+D:\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CI.props
+D:\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Datafirs\CI\CI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Datafirs\CI\CI\obj\Debug\net6.0\scopedcss\bundle\CI.styles.css
+D:\Datafirs\CI\CI\obj\Debug\net6.0\scopedcss\projectbundle\CI.bundle.scp.css
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.csproj.CopyComplete
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.dll
+D:\Datafirs\CI\CI\obj\Debug\net6.0\refint\CI.dll
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.pdb
+D:\Datafirs\CI\CI\obj\Debug\net6.0\CI.genruntimeconfig.cache
+D:\Datafirs\CI\CI\obj\Debug\net6.0\ref\CI.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.csproj.AssemblyReference.cache
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.AssemblyInfoInputs.cache
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.AssemblyInfo.cs
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.csproj.CoreCompileInputs.cache
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.MvcApplicationPartsAssemblyInfo.cache
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.RazorAssemblyInfo.cache
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.RazorAssemblyInfo.cs
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.dll
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\refint\CI.dll
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.pdb
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\appsettings.Development.json
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\appsettings.json
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\CI.staticwebassets.runtime.json
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\CI.exe
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\CI.deps.json
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\CI.runtimeconfig.json
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\CI.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\CI.pdb
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Humanizer.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\MailKit.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\MimeKit.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CI login in vs\Datafirs\CI\CI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets\msbuild.CI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets\msbuild.build.CI.props
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CI.props
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CI.props
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets.build.json
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\staticwebassets.development.json
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\scopedcss\bundle\CI.styles.css
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\scopedcss\projectbundle\CI.bundle.scp.css
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.csproj.CopyComplete
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\CI.genruntimeconfig.cache
+E:\CI login in vs\Datafirs\CI\CI\obj\Debug\net6.0\ref\CI.dll

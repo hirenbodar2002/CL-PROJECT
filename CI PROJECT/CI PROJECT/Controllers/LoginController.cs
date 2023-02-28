@@ -9,6 +9,12 @@ namespace CI_PROJECT.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult Login(RegistrationModel model)
+        {
+               
+        }
+
         public IActionResult Forgotpassword()
         {
             return View();
@@ -18,10 +24,11 @@ namespace CI_PROJECT.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Register(RegisterModel model)
+        public IActionResult Register(RegistrationModel model)
         {
-            return View();
+            return View();  
         }
+       
 
         public IActionResult newpassword()
         {
